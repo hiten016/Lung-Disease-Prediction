@@ -10,17 +10,14 @@ This repository implements multiple deep learning models through papers for dete
 
 ### 🔹 MobileLungNetV2
 - Modified MobileNetV2 with **data augmentation** and **Grad-CAM visualization**.
-- Achieved **96.97% accuracy**.  
 - Reference: [PubMed Article](#)
 
 ### 🔹 DenseNet-121 for COVID Detection
 - Uses DenseNet-121 with preprocessing.  
-- Achieved **97% accuracy**.  
 - Reference: [MDPI Article](#)
 
 ### 🔹 DenseNet + VGG Fusion
 - Feature fusion approach combining DenseNet and VGG features.  
-- Achieved **98% accuracy**.  
 - Reference: [PubMed Article](#)
 
 ## Folder
