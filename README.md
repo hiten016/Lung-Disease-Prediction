@@ -1,6 +1,8 @@
 # Lung-Disease-Prediction
 Transfer Learning on Vgg19
 
+Built this project under guidance of Prof. Nikunja Kar as a part of my coursework<br> 
+
 
 Multi-class Lung Disease Prediction <br>
 This repository implements multiple deep learning models through papers for detecting lung diseases from chest X-ray images.It includes MobileNetV2, DenseNet-121, and a DenseNet+VGG fusion approach.
@@ -44,3 +46,4 @@ This repository implements multiple deep learning models through papers for dete
 └── venv/                 
 
 Dataset used: https://www.kaggle.com/datasets/dionixius/lung-disease-5-class-dataset 
+
