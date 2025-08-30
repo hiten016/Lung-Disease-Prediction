@@ -1,4 +1,4 @@
-# Lung-Disease-Prediction
+# Lung-Disease-Detection
 Transfer Learning on Vgg19
 
 Built this project under guidance of Prof. Nikunja Kar as a part of my coursework<br> 
@@ -10,15 +10,15 @@ This repository implements multiple deep learning models through papers for dete
 
 ##  Models Implemented
 
-### 🔹 MobileLungNetV2
+###  MobileLungNetV2
 - Modified MobileNetV2 with **data augmentation** and **Grad-CAM visualization**.
 - Reference: [PubMed Article](#)
 
-### 🔹 DenseNet-121 for COVID Detection
+###  DenseNet-121 for COVID Detection
 - Uses DenseNet-121 with preprocessing.  
 - Reference: [MDPI Article](#)
 
-### 🔹 DenseNet + VGG Fusion
+###  DenseNet + VGG Fusion
 - Feature fusion approach combining DenseNet and VGG features.  
 - Reference: [PubMed Article](#)
 
